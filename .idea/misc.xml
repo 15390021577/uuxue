@@ -4,6 +4,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/u-context/pom.xml" />
+        <option value="$PROJECT_DIR$/u-member/pom.xml" />
+        <option value="$PROJECT_DIR$/u-question/pom.xml" />
+        <option value="$PROJECT_DIR$/u-study/pom.xml" />
+        <option value="$PROJECT_DIR$/u-channal/pom.xml" />
       </list>
     </option>
   </component>

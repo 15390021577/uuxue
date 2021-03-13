@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="u-context" />
+        <module name="u-study" />
+        <module name="u-question" />
+        <module name="u-member" />
+        <module name="u-channal" />
+      </profile>
+    </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="u-channal" target="1.8" />
+      <module name="u-context" target="1.8" />
+      <module name="u-member" target="1.8" />
+      <module name="u-question" target="1.8" />
+      <module name="u-study" target="1.8" />
       <module name="uxue" target="1.5" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="u-channal" options="-parameters" />
+      <module name="u-context" options="-parameters" />
+      <module name="u-member" options="-parameters" />
+      <module name="u-question" options="-parameters" />
+      <module name="u-study" options="-parameters" />
+    </option>
   </component>
 </project>

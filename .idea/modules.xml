@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/u-channal/u-channal.iml" filepath="$PROJECT_DIR$/u-channal/u-channal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u-context/u-context.iml" filepath="$PROJECT_DIR$/u-context/u-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u-member/u-member.iml" filepath="$PROJECT_DIR$/u-member/u-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u-question/u-question.iml" filepath="$PROJECT_DIR$/u-question/u-question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u-study/u-study.iml" filepath="$PROJECT_DIR$/u-study/u-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/uxue.iml" filepath="$PROJECT_DIR$/uxue.iml" />
     </modules>
   </component>

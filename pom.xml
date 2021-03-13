@@ -8,6 +8,12 @@
     <artifactId>uxue</artifactId>
     <version>1.0</version>
     <packaging>pom</packaging>
-
+    <modules>
+        <module>u-channal</module>
+        <module>u-context</module>
+        <module>u-member</module>
+        <module>u-question</module>
+        <module>u-study</module>
+    </modules>
 
 </project>
